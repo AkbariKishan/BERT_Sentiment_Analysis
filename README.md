@@ -12,9 +12,9 @@ Loss value while training has been plotted in the following image. It can be obs
 ![](https://github.com/kishanAk21/BERT_Sentiment_Analysis/blob/main/Train_loss.png)
 
 
-This repository containes two python notebooks,
+This repository contains two python notebooks,
 1. Fine_Tuning_BERT_for_Sentiment_Analysis.ipynb: It reads the sentiment dataset and fine-tunes the BERT model. It also saves the fine-tuned model as `my_model`.
 2. Sentiment_prediction.ipynb: This notebook loads the fine-tuned model and predicts the sentiments for given sentence inputs.
 
 
-Note: I would recomment to use google colab, if you are planning to fine-tune the model and get the first hand experience.
+Note: I would recommend to use `Google Colab`, if you are planning to fine-tune the model and get the first hand experience.
